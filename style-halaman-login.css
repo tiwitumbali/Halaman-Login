@@ -156,9 +156,9 @@
   
     --loginLabelBackgroundColor: #363b41;
   
-    --loginSubmitBackgroundColor: #ea4c88;
+    --loginSubmitBackgroundColor: #000000;
     --loginSubmitColor: #eee;
-    --loginSubmitHoverBackgroundColor: #d44179;
+    --loginSubmitHoverBackgroundColor: #ffffff;
   }
   
   .login {
